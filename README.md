@@ -1,1 +1,1 @@
-Please write README for this project
+This is a demo project using Chern toolkit
