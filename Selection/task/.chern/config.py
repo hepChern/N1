@@ -1,1 +1,2 @@
-object_type = "task"
+object_type=u'task'
+predecessors=['Algorithm/Selection']

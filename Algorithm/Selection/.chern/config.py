@@ -1,2 +1,3 @@
-object_type = "algorithm"
-main_file = "main.py"
+main_file=u'main.py'
+object_type=u'algorithm'
+successors=['Selection/test', 'Selection/task']
